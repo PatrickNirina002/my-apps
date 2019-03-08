@@ -1,0 +1,27 @@
+
+table
+{
+margin-left: 10px;
+border-collapse: collapse;
+margin-top:20px;
+}
+td, th ,tr
+{
+border: 1px solid rgb(18, 117, 56);
+width: 100px;
+}
+th{
+    background-color: rgb(18, 117, 56);
+}
+button{
+    background: rgb(94, 38, 38);
+    margin-left: 30px;
+    color: white;
+    border-radius: 20px;
+}
+h1{
+    margin-left: 100px;
+    color:rgb(15, 38, 170) ;
+    margin-top: 50px;
+    text-decoration: underline;
+}
