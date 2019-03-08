@@ -1,0 +1,16 @@
+.si{
+    margin-top:40px;
+    margin-left:90px;
+}
+.s{
+    margin-left:50px;
+    color:rgb(3, 16, 85);
+}
+button
+{
+    cursor: default;
+    margin-left:100px; 
+    color:white;
+    background:rgb(3, 16, 85);
+    border-radius: 50px;
+}
